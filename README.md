@@ -8,6 +8,6 @@
 - 抓取Top100的电影名称、时间、评分、图片等信息。
 
 ## 抓取网站
-url站点：http://maoyan.com/board
+url站点：http://maoyan.com
 
 学习书籍Python3 网络爬虫开发实战 抓取猫眼电影排行
