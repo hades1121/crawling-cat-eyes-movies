@@ -22,7 +22,7 @@ def write_to_file(html):
 
 
 def main():
-    url = 'https://www.gutenberg.org/ebooks/search/?query=book&submit_search=%E6%90%9C%E7%B4%A2&start_index=26'
+    url = 'https://www.maoyan.com'
     # url可以更改
     html = get_one_page(url)
     write_to_file(html)
